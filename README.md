@@ -6,8 +6,6 @@ Made By: ! The Leader
 
 Some Informations: This bot created by The Leader and this not the public version this Beta version, I will add new Features in bot soon.
 
---------------------------------------------------------
-
 ## Setup
 
 Frist one you need set some information in env folder
@@ -18,8 +16,6 @@ Now you want to go back to bot go to env folder and set your bot token, prefix a
 
 Now the bot is Ready to work 
 
---------------------------------------------------------
-
 ## Features
 
 Status | Features
@@ -28,8 +24,6 @@ Not completed | General commands
 Not completed | Moderation commands
 Done | Economy commands
 In Develop | Settings commands
-
---------------------------------------------------------
 
 ## Bot Package
 
@@ -41,5 +35,3 @@ In Develop | Settings commands
 - fs
 - aki-api
 - moment
-
---------------------------------------------------------

@@ -6,7 +6,6 @@ Made By: ! The Leader
 
 Some Informations: This bot created by The Leader and this not the public version this Beta version, I will add new Features in bot soon.
 
---------------------------------------------------------
 
 ## Setup
 

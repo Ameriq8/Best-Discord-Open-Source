@@ -6,7 +6,7 @@ module.exports = class TestCommand extends BaseCommand {
   }
 
   async run(client, message, args) {
-    let user = message.mentions.members.first();
+    let user = message.mentions.members.first() || message.guild.members.cache.get(args[0]);
     let reason = args[1];
 
     if (message.member.hasPermission("KICK_MEMBERS")) return message.channel.send("Sorry, You don't have `KICK_MEMBERS` permission.");

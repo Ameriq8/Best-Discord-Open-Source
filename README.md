@@ -33,5 +33,4 @@ In Develop | Settings commands
 - http
 - parse-ms
 - fs
-- aki-api
 - moment
